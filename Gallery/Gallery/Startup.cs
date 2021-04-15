@@ -25,6 +25,8 @@ namespace Gallery
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddServerSideBlazor();
+            services.AddControllers();
             services.AddTransient<JsonFileProductService>();
         }
 
@@ -52,6 +54,8 @@ namespace Gallery
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+                endpoints.MapControllers();
+                endpoints.MapBlazorHub();
             });
         }
     }

@@ -35,3 +35,8 @@ D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
 D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
 D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
 D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.RazorComponent.input.cache
+D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.RazorComponent.output.cache
+D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\RazorDeclaration\Gallery.dll
+D:\.Net\myProject\Gallery\Gallery\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
