@@ -8,7 +8,8 @@
     "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
     "Ratings": [
       5,
-      5
+      5,
+      4
     ]
   },
   {
@@ -54,7 +55,9 @@
     "Url": "https://twitter.com/sailorhg/status/1090113666911891456",
     "Title": "Light-up Corsage",
     "Description": "Light-up corsage I made with my summer intern.",
-    "Ratings": null
+    "Ratings": [
+      3
+    ]
   },
   {
     "Id": "sailorhg-kit",
@@ -108,7 +111,14 @@
     "Url": "https://www.vogueandcode.com/shop/pretty-girls-code-tee",
     "Title": "Pretty Girls Code Tee",
     "Description": "Everyone\u2019s favorite design is finally here on a tee! The Pretty Girls Code crew-neck tee is available in a soft pink with red writing.",
-    "Ratings": null
+    "Ratings": [
+      3,
+      4,
+      2,
+      5,
+      5,
+      5
+    ]
   },
   {
     "Id": "vogueandcode-ruby-sis-2",
